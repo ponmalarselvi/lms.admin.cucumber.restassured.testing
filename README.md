@@ -40,3 +40,5 @@ You can open each test class on src\test\java and execute all of them
 * [Rest-Assured](https://rest-assured.io/) library to test REST APIs
 * [cucumber](https://docs.cucumber.io/) Testing framework
 * [Allure-reports](https://docs.qameta.io/allure/)
+
+Thanks for visiting. Enjoy Coding...
